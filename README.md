@@ -1,3 +1,3 @@
 # node-farm
 
-A simple project using node js
+My first backend work. A simple project using node js. Just showing data dynamically from a json file, nothing more.
